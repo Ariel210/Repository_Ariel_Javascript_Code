@@ -1,1 +1,5 @@
 <script></script> -> it works for work with HTML
+
+
+// For print the code in console/Window
+[ alert() , console.log() , document.write()]
