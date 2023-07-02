@@ -3,3 +3,6 @@
 
 // For print the code in console/Window
 [ alert() , console.log() , document.write()]
+
+// Forms the declarate variables in Javascript 
+[ let, var, const ]
